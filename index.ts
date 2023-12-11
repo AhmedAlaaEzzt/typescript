@@ -2,5 +2,5 @@ const greet = (name) => {
   return `Hello, ${name}!`;
 };
 
-let user = "Jane";
+let user = "User Name";
 console.log(greet(user));
